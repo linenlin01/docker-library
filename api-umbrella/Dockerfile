@@ -1,1 +1,1 @@
-FROM nrel/api-umbrella:lastest
+FROM nrel/api-umbrella:latest
