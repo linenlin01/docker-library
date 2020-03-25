@@ -1,1 +1,1 @@
-FROM nrel/api-umbrella:latest
+FROM nrel/api-umbrella-beta-deploy:latest
